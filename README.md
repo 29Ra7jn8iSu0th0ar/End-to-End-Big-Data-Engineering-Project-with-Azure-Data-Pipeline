@@ -115,5 +115,6 @@ By completing this project, you will gain hands-on experience in:
 ## Looker Studio
 [![View Dashboard]([https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=google)](https://lookerstudio.google.com/your-dashboard-link](https://lookerstudio.google.com/s/swHQd--AX0M))
 
-![Looker Studio Dashboard](Project-Brazillian%20Ecommerce/Looker%20studio%20Dashboard.png)
+![Looker Studio Dashboard](Project-Brazillian%20Ecommerce/DashBoard.png)
+
 
